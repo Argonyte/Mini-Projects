@@ -7,4 +7,4 @@ Mini Projects I've done over the set of time when learning new languages
 
 - [Beginner](https://github.com/Argonyte/Mini-Projects/tree/main/beginners): Programs done while learning C
 
-- [C++ Based Projects](https://github.com/Argonyte/Mini-Projects/tree/main/C%2B%2B%20based%20projects)
+- [C++ Based Projects](https://github.com/Argonyte/Mini-Projects/tree/main/C%2B%2B%20based%20projects): Programs and Projects done while learning C++
